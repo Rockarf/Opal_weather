@@ -1,11 +1,1 @@
-{
-  "functions": {
-    "api/weather.ts": {
-      "runtime": "edge",
-      "maxDuration": 10
-    }
-  },
-  "routes": [
-    { "src": "/api/weather", "dest": "/api/weather" }
-  ]
-}
+
